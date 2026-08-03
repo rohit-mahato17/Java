@@ -36,6 +36,6 @@ public class Main {
         int ans2 = (aa*bb)/(aa-bb);
         System.out.println(ans2);
 
-        
+    
     }
 } 
