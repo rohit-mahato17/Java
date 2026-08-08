@@ -13,13 +13,17 @@ public class array2D {
                 numbers[i][j] = sc.nextInt();
             }
         }
-
+         
+         int x = sc.nextInt();
         //output
          for(int i=0; i<rows; i++){
             for(int j=0; j<columns; j++){
-                System.out.print(numbers[i][j] + " ");
+                // System.out.print(numbers[i][j] + " ");
+               if(numbers[i][j] == x) {
+                System.out.println("This valud is present:"+x);
+               }
             }
-            System.out.println();
+            // System.out.println();
         }
     }
 }
