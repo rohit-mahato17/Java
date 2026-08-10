@@ -196,7 +196,7 @@ Java/
 * [x] Patterns
 * [x] Methods
 * [ ] Arrays
-* [ ] Strings
+* [x] Strings
 * [ ] OOP
 * [ ] Collections
 * [ ] DSA
