@@ -207,7 +207,3 @@ Java/
 I am a BCA graduate/student building my programming and problem-solving skills through consistent practice.
 
 **Goal:** Become a job-ready software developer by improving Java, DSA, backend development, and real-world project skills.
-
----
-
-⭐ If you find this repository useful, feel free to star it!
