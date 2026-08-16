@@ -7,7 +7,6 @@ This repository contains my Java learning journey, practice programs, problem-so
 ## 📚 Java Topics Covered
 
 ### 1. Java Basics
-
 * Introduction to Java
 * JDK, JRE & JVM
 * Java Program Structure
