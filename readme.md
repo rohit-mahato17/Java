@@ -45,3 +45,54 @@ Revise
 
 🐍 GitHub Contribution Activity
 <div align="center"> <img src="https://raw.githubusercontent.com/rohit-mahato17/Java/main/assets/github-contribution-grid-snake.svg" /> </div>
+---
+Java Fundamentals
+       │
+       ▼
+Input / Output
+       │
+       ▼
+Conditional Statements
+       │
+       ▼
+Loops
+       │
+       ▼
+Patterns
+       │
+       ▼
+Methods
+       │
+       ▼
+Arrays
+       │
+       ▼
+Strings
+       │
+       ▼
+OOP
+       │
+       ▼
+Exception Handling
+       │
+       ▼
+Collections
+       │
+       ▼
+Advanced Java
+       │
+       ▼
+Data Structures
+       │
+       ▼
+Algorithms
+       │
+       ▼
+Problem Solving
+       │
+       ▼
+Interview Preparation
+
+---
+
+
