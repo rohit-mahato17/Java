@@ -1,208 +1,47 @@
-#  Java Programming – Learning & Practice
+# ☕ Java Programming — Learning & Practice
 
-Welcome to my **Java Programming** repository! 🚀
+<div align="center">
 
-This repository contains my Java learning journey, practice programs, problem-solving exercises, and important Java concepts.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F89820&center=true&vCenter=true&width=700&lines=Learning+Java+Step+by+Step;Building+Strong+Programming+Fundamentals;Practicing+DSA+with+Java;Preparing+for+Software+Development+Jobs" />
 
-## 📚 Java Topics Covered
+<br>
 
-### 1. Java Basics
-* Introduction to Java
-* JDK, JRE & JVM
-* Java Program Structure
-* Variables & Data Types
-* Type Casting
-* Operators
-* Taking User Input using `Scanner`
-* Comments
+<img src="https://img.shields.io/badge/Language-Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Practice-Daily-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub-Learning-181717?style=for-the-badge&logo=github" />
 
-### 2. Conditional Statements
-
-* `if`
-* `if-else`
-* `else-if`
-* Nested `if`
-* `switch`
-* Ternary Operator
-
-### 3. Loops
-
-* `for` loop
-* `while` loop
-* `do-while` loop
-* Nested loops
-* `break`
-* `continue`
-
-### 4. Patterns
-
-* Star Patterns
-* Number Patterns
-* Pyramid Patterns
-* Inverted Patterns
-* Floyd's Triangle
-
-### 5. Functions / Methods
-
-* Creating Methods
-* Method Parameters
-* Return Values
-* Method Overloading
-* Recursion
-  
-### 6. Arrays
-
-* One-Dimensional Arrays
-* Two-Dimensional Arrays
-* Array Traversal
-* Searching
-* Sorting
-* Maximum & Minimum Elements
-
-### 7. Strings
-
-* String Basics
-* String Methods
-* String Comparison
-* StringBuilder
-* StringBuffer
-* String Manipulation
-
-### 8. Object-Oriented Programming (OOP)
-
-* Classes & Objects
-* Constructors
-* Encapsulation
-* Inheritance
-* Polymorphism
-* Abstraction
-* Interfaces
-* `this` Keyword
-* `super` Keyword
-* Method Overriding
-
-### 9. Exception Handling
-
-* `try`
-* `catch`
-* `finally`
-* `throw`
-* `throws`
-* Custom Exceptions
-
-### 10. Collections Framework
-
-* ArrayList
-* LinkedList
-* HashSet
-* TreeSet
-* HashMap
-* TreeMap
-* Iterator
-
-### 11. Advanced Java
-
-* Packages
-* Access Modifiers
-* File Handling
-* Multithreading
-* Generics
-* Lambda Expressions
-* Stream API
-
-### 12. DSA with Java
-
-* Time & Space Complexity
-* Linear Search
-* Binary Search
-* Sorting Algorithms
-* Recursion
-* Linked List
-* Stack
-* Queue
-* Trees
-* Graphs
-* Hashing
+</div>
 
 ---
 
-# 🤖 Java Learning Chatflow
+## 🚀 About This Repository
 
-My learning approach:
+Welcome to my **Java Programming Learning & Practice Repository**.
 
-```text
-Learn Concept
-     ↓
-Understand Syntax
-     ↓
-Write Basic Example
-     ↓
-Practice Problems
-     ↓
-Solve Without Help
-     ↓
-Optimize Code
-     ↓
-Add to GitHub
-     ↓
-Revise & Repeat
-```
+This repository documents my journey of learning Java from fundamentals to advanced concepts and Data Structures & Algorithms.
 
-## 🎯 Practice Goal
-
-I am using this repository to:
-
-* Build strong Java fundamentals
-* Improve problem-solving skills
-* Learn DSA using Java
-* Prepare for coding interviews
-* Practice regularly
-* Build a strong GitHub portfolio
-
-## 📂 Repository Structure
+I follow a practical learning process:
 
 ```text
-Java/
-│
-├── Basics/
-├── ConditionalStatements/
-├── Loops/
-├── Patterns/
-├── Methods/
-├── Arrays/
-├── Strings/
-├── OOP/
-├── ExceptionHandling/
-├── Collections/
-├── AdvancedJava/
-└── DSA/
+Learn
+  ↓
+Understand
+  ↓
+Code
+  ↓
+Practice
+  ↓
+Solve Problems
+  ↓
+Optimize
+  ↓
+Commit
+  ↓
+Revise
 ```
 
-## 🛠️ Tools Used
+---
 
-* Java
-* JDK
-* VS Code
-* Git
-* GitHub
-
-## 📈 My Progress
-
-* [x] Java Basics
-* [x] Input & Output
-* [x] Conditions
-* [x] Loops
-* [x] Patterns
-* [x] Methods
-* [ ] Arrays
-* [x] Strings
-* [ ] OOP
-* [ ] Collections
-* [ ] DSA
-* [ ] Advanced Java
-
-## 👨‍💻 About Me
-
-I am a BCA graduate/student building my programming and problem-solving skills through consistent practice.
-
-**Goal:** Become a job-ready software developer by improving Java, DSA, backend development, and real-world project skills.
+🐍 GitHub Contribution Activity
+<div align="center"> <img src="https://raw.githubusercontent.com/rohit-mahato17/Java/main/assets/github-contribution-grid-snake.svg" /> </div>
