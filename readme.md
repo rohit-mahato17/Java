@@ -1,5 +1,4 @@
 # ☕ Java Programming — Learning & Practice
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F89820&center=true&vCenter=true&width=700&lines=Learning+Java+Step+by+Step;Building+Strong+Programming+Fundamentals;Practicing+DSA+with+Java;Preparing+for+Software+Development+Jobs" />
